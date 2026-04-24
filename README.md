@@ -27,6 +27,11 @@ La forma más sencilla de tener tu web online. Sigue esta tabla de ruta:
 * 📝 **Contenido**: Edita tu archivo `index.html` directamente en el repositorio para agregar tu información y tu diseño.
 * 🚀 **Actualizaciones**: Cada vez que subas cambios (hagas un *push*) al repositorio, estos se reflejarán automáticamente en tu página tras unos instantes.
 
+## 🕹️ ¡Diviértete!
+¿Quieres jugar? Prueba tus conocimientos sobre GitHub Pages
+* 🎮 **Juego Blooket**: [Jugar ahora](https://play.blooket.com/solo?id=69eb3d7af4d9c1cd9d869ea5)
+
+
 ## 💊 Contacto y Recursos
 
 * 📚 Fuente del tutorial: [Documentación oficial de GitHub Pages](https://docs.github.com/es/pages/quickstart)
